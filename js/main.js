@@ -115,8 +115,7 @@ const notAllowed = [
   "price",
   "pricingBanner",
   "discountBanner",
-  "team",
-  "blog"
+  "team"
 ];
 
 window.onload = function () {
